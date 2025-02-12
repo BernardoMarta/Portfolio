@@ -71,4 +71,4 @@ This document provides a categorized index of the projects created by me, Bernar
 ### 3.6 Exchange_calculator
 - **Description**: Simulates a vending machine that handles coin inputs and calculates change based on user denominations.
 - **Skills**: Arithmetic operations, user input handling.
-- **Repository**: [Exchange_caluclator](https://github.com/BernardoMarta/Exchange_calculator)
+- **Repository**: [Exchange_calculator](https://github.com/BernardoMarta/Exchange_calculator)
