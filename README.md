@@ -41,11 +41,6 @@ This document provides a categorized index of the projects created by me, Bernar
 - **Skills**: API integration, multi-language support, CSV data storage.
 - **Repository**: [Weather_app](https://github.com/BernardoMarta/Weather_app)
 
-### 2.4 GitHub to Colab Opener
-- **Description**: A Python script that automates opening GitHub-hosted Jupyter Notebooks directly in Google Colab by constructing Colab-compatible URLs.
-- **Skills**: Workflow automation, Python scripting.
-- **Repository**: [GitHub-to-Colab](https://github.com/BernardoMarta/GitHub-to-Colab)
-
 ## 3. Programming Fundamentals & Tools
 
 ### 3.1 IPv4_validator
