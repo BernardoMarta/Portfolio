@@ -51,6 +51,7 @@ This document provides a categorized index of the projects created by me, Bernar
 ### 3.2 Summing_game
 - **Description**: A number addition game developed in Python that tests arithmetic skills and provides scoring functionality.
 - **Skills**: Programming logic, user input handling.
+- **Repository**: [Summing_game](https://github.com/BernardoMarta/Summing_game)
 
 ### 3.3 Guesing_game
 - **Description**: A Python-based number guessing game where players attempt to guess a randomly generated number within a specified range.
