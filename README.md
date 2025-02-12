@@ -1,6 +1,6 @@
 # Portfolio Index
 
-This document provides a categorized index of my projects, showcasing my skills and experience in Data Science, Machine Learning & AI, Data Engineering & Automation, and Programming Fundamentals. This portfolio demonstrates a strong foundation for pursuing advanced studies in these fields.
+This document provides a categorized index of the projects created by me, Bernardo Marta, showcasing my skills and experience in Data Science, Machine Learning & AI, Data Engineering & Automation, and Programming Fundamentals. This portfolio demonstrates a strong foundation for pursuing advanced studies in these fields.
 
 ## 1. Machine Learning & AI Projects
 
